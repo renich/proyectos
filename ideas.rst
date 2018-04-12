@@ -8,7 +8,7 @@ Proyectos a realizar
 :Autor:
     Renich Bon Ciric <renich@evalinux.com>
 
-:Licencia: 
+:Licencia:
     CC-BY-SA_ 4.0 o >
 
 :Versión:
@@ -69,7 +69,7 @@ TeLoPresto
 ##########
 
 Aplicación para pedir prestadas cosas; así como para prestar. Se permitirá cobrar por prestar. Tendrá un sistema de reputación para
-quienes pidan prestadas las cosas. 
+quienes pidan prestadas las cosas.
 
 
 PrestaUnVaro
@@ -87,10 +87,10 @@ escoger quien(es) le preste(n).
 Reputeichon
 ###########
 
-Una aplicación que permite ponerle reputación a cualquier establecimiento; agregando anotaciones, fotos y detalles. 
+Una aplicación que permite ponerle reputación a cualquier establecimiento; agregando anotaciones, fotos y detalles.
 
 Sirve para consultar, también, cual es la reputación de algún establecimiento o prestador de servicio. Además, a los flagrantes, se
-les permite "limpiar su reputación" por un monto y publicando una carta compromiso; indicando como piensan remediar la situación. 
+les permite "limpiar su reputación" por un monto y publicando una carta compromiso; indicando como piensan remediar la situación.
 
 Si hay reinsidencia, el costo del "perdón" sube.
 
@@ -103,9 +103,9 @@ Recursos FOSS para PyMEs
 ########################
 
 Crear un sitio de recursos variados (wiki, screencasts, compilaciones, etc) para PyMEs. Básicamente, generar resetas para que una
-PyME pueda usar FOSS. Explicar cosas como: 
+PyME pueda usar FOSS. Explicar cosas como:
 
-* Como poner una red 
+* Como poner una red
 * Como poner un Firewall
 * Como usar LibreOffice (Windows y GNU & Linux)
 * Como instalar GNU & LInux
@@ -122,7 +122,7 @@ El proyecto se le puede vender al gobierno para proveer hasta soporte telefónic
 GPS para las Rutas de Guadalajara
 #################################
 
-Desarrollar el hardware y software para poner a las rutas de camiones de Guadalajara en Google Maps. 
+Desarrollar el hardware y software para poner a las rutas de camiones de Guadalajara en Google Maps.
 
 Implicaría:
 
@@ -146,7 +146,18 @@ Un sistema que sea clon de Contpaq; pero web. Que permita:
 
 Se puede vender hosting (SaaS).
 
-El proyecto se le puede vender a una cámara de comercio o de IT. Que se pague entre varios y que se haga FOSS. 
+El proyecto se le puede vender a una cámara de comercio o de IT. Que se pague entre varios y que se haga FOSS.
+
+
+Sen Foundation
+##############
+
+La fundación promovería la usabilidad para personas de la 3era edad. Básicamente, haría:
+
+* Propuestas a empresas
+* Guías de diseño
+* Desarrollo
+* Promoción
 
 
 Servicios
@@ -167,10 +178,10 @@ nivel 3
     Local, remoto y adicional. Lo mismo que el nivel 2 pero adicionamos respaldos en cinta; que van a otra locación; en caja de seguridad.
 
 
-Encriptación
-############
+Cifrado
+#######
 
-Ofrecer servicios de encriptación de documentos e información a despachos jurídicos, notarios, universidades,  empresas, políticos, etc.
+Ofrecer servicios de cifrado de documentos e información a despachos jurídicos, notarios, universidades,  empresas, políticos, etc.
 
 
 .. Links
